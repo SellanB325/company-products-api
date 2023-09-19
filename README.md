@@ -1,4 +1,4 @@
-# Company API Project
+
 a educational API with Javascript and related technologies (ES6+, mongodb, etc)
 
 # Environment variables
@@ -7,9 +7,3 @@ a educational API with Javascript and related technologies (ES6+, mongodb, etc)
 - MONGODB_URI, the default MONGODB URI
 - ADMIN_EMAIL=fazt@localhost.local
 - ADMIN_USERNAME=fazt
-
-# Recommended services
-
-* Heroku
-* Mongodb Atlas. Put a username, password and db name
-* DigitalOcean
